@@ -1,0 +1,13 @@
+Nu_train, 8192
+Nf_train, 16384
+Nint_train, 0
+validation_size, 0.0
+train_time, 14224.27187371254
+L2_norm_test, 0.022451524
+rel_L2_norm, 0.025302054
+loss_tot, 0.0011378623312339187
+loss_vars, 0.00010714546806411818
+loss_pde, 6.640755600528792e-05
+loss_pde_no_norm, 0.00011315583833493292
+loss_pde_no_norm_after_max, 0.0008365653266082518
+retrain, 14

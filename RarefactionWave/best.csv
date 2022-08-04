@@ -1,0 +1,37 @@
+hidden_layers_sol, 6
+hidden_layers_test, 4
+neurons_sol, 20
+neurons_test, 10
+activation_sol, tanh
+activation_test, tanh
+tau_sol, 0.01
+tau_test, 0.015
+iterations_min, 1
+iterations_max, 8
+residual_parameter, 10
+kernel_regularizer, 2
+regularization_parameter_sol, 0
+regularization_parameter_test, 0
+batch_size, 24576
+epochs, 5000
+norm, H1
+cutoff, def_max
+weak_form, partial
+reset_freq, 0.025
+loss_type, l2
+Nu_train,8192.0
+Nf_train,16384.0
+Nint_train,0.0
+validation_size,0.0
+train_time,13914.650582385064
+L2_norm_test,0.022163373799999997
+rel_L2_norm,0.0249902054
+loss_tot,0.0010095983976498245
+loss_vars,9.643954035709612e-05
+loss_pde,4.520299826253904e-05
+loss_pde_no_norm,7.433994500516406e-06
+loss_pde_no_norm_after_max,5.367678704844003e-05
+retrain,20.5
+metric,0.00010387353485761253
+retraining,1.0
+setup,39
