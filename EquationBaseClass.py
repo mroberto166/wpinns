@@ -30,6 +30,9 @@ class EquationBaseClass:
             raise ValueError()
         return norm
 
+    # Weak Adversarial Networks for High-dimensional Partial
+    # Differential Equations,
+    # Yaohua Zang, Gang Bao, Xiaojing Ye, Haomin Zhou
 
     def fun_w(self, x, extrema_values, time_dimensions):
         if self.cutoff == "def_max":
